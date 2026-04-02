@@ -4,7 +4,7 @@
   
 
 
-  <img src="assets/davisual.studio.png" alt="Logo davisual.studio" width="100%" height="250px">
+  <img src="assets/davisual.studio.png" alt="Logo davisual.studio" width="100%" height="150px">
 
   <h1 align="center" style="font-size: 3em;"><b>davisual.studio</b></h1>
   
